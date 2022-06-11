@@ -12,9 +12,9 @@ Citizen.CreateThread(function()
             if not handsup then
                 TaskPlayAnim(PlayerPedId(), dict, "handsup_standing_base", 8.0, 8.0, -1, 50, 0, false, false, false)
                 handsup = true
-                TriggerServerEvent('glrp_basics:server:toggleHandsup', true)
+                TriggerServerEvent('stormydormy:server:toggleHandsup', true)
             else
-                TriggerServerEvent('glrp_basics:server:toggleHandsup', false)
+                TriggerServerEvent('stormydormy:server:toggleHandsup', false)
                 handsup = false
                 ClearPedSecondaryTask(PlayerPedId())
             end
