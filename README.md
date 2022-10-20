@@ -6,5 +6,6 @@ A custom made hands up standalone script for FiveM, this script allows you put y
 
 
 
-Credits to ...
+Credits to Storm#2000 
+!!
 You are not allowed to claim you have made this script nor sell it, this script is made by Storm#200 and is free to use! For further questions or issues you can message me on on my discord: Storm#2000.
