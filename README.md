@@ -1,4 +1,6 @@
 A custom made hands up standalone script for FiveM, this script allows you put your hands up but with a little scared shaking animation
+
+
 --I made a few simple changes so you cannot attack, aim or reload while hands are up
 
 
